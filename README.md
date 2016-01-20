@@ -1,2 +1,3 @@
-# why-you-should-not-believe-IWF
-This is Information how often Institution of IWF has failed and has no lesson learned about his lack of quality prediction economic events
+# quality-measurements-of-economic-predictions
+This is a document about the fact how quality of economic predictions of institutions and persons develop over time.
+
